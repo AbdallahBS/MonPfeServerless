@@ -17,7 +17,7 @@ exports.handler = async (event, context) => {
            },
            {
               name: "ACTIA Engineering Services", 
-              email : "",
+              email : "contact@actia-engineering.tn",
               location : "Technopôle El Ghazala - 1, BP99 rue Newton",
               shortdescription : " spécialisée dans la conception et le développement de solutions matérielles embarquées et de services logiciels pour les secteurs de la mobilité et de l'industrie...",
               description: "La Division SERVICES D'INGÉNIERIE du Groupe français ACTIA est spécialisée dans la conception et le développement de solutions matérielles embarquées et de services logiciels pour les secteurs de la mobilité et de l'industrie.L'expertise en software et hardware de plus de 900 ingénieurs, répartis sur quatre sites autour du bassin méditerranéen – Tunis, Sfax, Toulouse et Le Caire – garantit le développement de produits et de services avec une qualité logicielle et technologique de pointe.",
@@ -30,9 +30,9 @@ exports.handler = async (event, context) => {
            },
            {
               name: "ADACTIM", 
-              email : "contact@actia-engineering.tn",
+              email : "contact@adactim.com",
               location : "Technopark El Ghazela Tunis - Tunisia Tunis، 2088",
-              shortdescription : "",
+              shortdescription : "ADACTIM est un opérateur de services managés et Cloud. Avec une expérience de plus de 25 ans au service des entreprises en Europe, Afrique et Moyen-Orient dans leur innovation digitale,",
               description: "ADACTIM fournit des solutions IT innovantes et de haute qualité, accompagnant ses clients dans leur transformation métier et technologique grâce à son expertise internationale en Cloud et Infrastructure, intégration, Sécurité et infogérance SI.",
               Images : ["https://i.postimg.cc/wBJXt553/Adactim.png","https://i.postimg.cc/3xzjJfvP/20181213-143925.jpg","https://i.postimg.cc/4NLbjxN4/20181213-143451.jpg","https://i.postimg.cc/8z7BGgjR/20181213-143417.jpg"], 
               linkDin : "https://www.linkedin.com/company/adactis/about/" ,
@@ -43,6 +43,7 @@ exports.handler = async (event, context) => {
           
            {
               name: "Yess Consulting", 
+              sujet : "",
               email : "contact@yess-consulting.com",
               location : "Technopôle El Ghazala - 1, BP99 rue Newton, Ariana 2088",
               shortdescription : "Yess Consulting est éditeur de progiciels intégrés de gestion, spécialisé dans le développement d'ERP depuis 2014...",
@@ -55,7 +56,7 @@ exports.handler = async (event, context) => {
            },
            {
               name: "xtensus", 
-              email : "",
+              email : "ecrutement@xtensus.com",
               location : "Rue Omar Ibn Abdelaziz, B4-1, Ariana, Ennkhilet 2083",
               shortdescription : "Développement Web, Portail internet, Intranet, Extranet, Site Web, e-Commerce, Gestion de portails, CMS, GED, GMP : Gestion des Marchés Publics / Privés, GPR : Gestion de Parc Roulant, and GBO : Gestion de Bureau d'Ordre...",
               description: "Xtensus Tunisie est une société de développement Web, de Multimédia et d’exploitation de portails internet.  Elle offre un ensemble d’outil Web à ses clients dont un système de gestion électronique de documents (GED) et un système de gestion de contenu (CMS).  Son expertise se concentre sur le développement d’interfaces dynamiques, les systèmes sécurisés et intégrés, les plateformes modulaires, et les technologies avancées. Elle compte des clients de la Tunisie, du Canada et de la France.",
@@ -66,6 +67,32 @@ exports.handler = async (event, context) => {
               pfeBook2024:"",
               web:"http://www.xtensus.com",
            },
+           {
+            name: "ADDIXO", 
+            email : "contact@addixo.com",
+            location : "Technopark Manouba Manouba، 2010",
+            shortdescription : "ADDIXO est une entreprise d'ingénierie internationale dotée de compétences de pointe dans les domaines du numérique, du logiciel, de la mécanique, de l'automatisation et de l'intelligence artificielle...",
+            description: "ADDIXO est une entreprise d'ingénierie internationale avec des compétences de premier plan dans les domaines du numérique, du logiciel, de la mécanique, de l'automatisation et de l'intelligence artificielle. Alliant une expérience inégalée et des compétences spécialisées, nous proposons la conception et la fabrication d'équipements de production intelligents, des solutions de numérisation des ateliers, ainsi que des services de R&D pour des produits et systèmes de haute qualité et compétitifs.",
+            sujet : "",
+            Images : ["https://i.postimg.cc/vHsyBPJS/2024-05-22.jpg","https://i.postimg.cc/RFJm32C2/20190228-161129.jpg","https://i.postimg.cc/5ywMgvC3/2017-07-10.jpg"], 
+            linkDin : "https://www.linkedin.com/company/addixogroup/" ,
+            pfeBook2023:"https://drive.google.com/file/d/1Z9HCfOiJa8g_vFsF5tvOdYMJidXlyfsE/view" , 
+            pfeBook2024:"",
+            web:"https://www.addixo.com/fr/",
+         },
+         {
+            name: "ADN Expertise", 
+            email : "contact@adn-expertise.fr",
+            location : "2eme étage, Planet food, 1 Av. de Yasser Arafat, Sousse 4050",
+            shortdescription : "ADN Expertise est un cabinet de consulting en stratégies et développement IT : développement Web & Mobile, DevOps, Big Data, Méthodologie...",
+            description: "ADN Expertise est un cabinet de consulting en stratégies et développement IT. Notre mission principale est de vous accompagner dans votre transformation digitale à travers une large gamme de services 4.0  : développement Web & Mobile, DevOps, Big Data, Méthodologie.. , en misant sur une équipe qui a pour devise créativité, réactivité et une approche centrée client pour assurer une transformation réussie.",
+            sujet : "",
+            Images : ["https://i.postimg.cc/L8B4VdpP/Logo-ADN-expertise-1.png"], 
+            linkDin : "https://www.linkedin.com/company/addixogroup/" ,
+            pfeBook2023:"https://drive.google.com/file/d/1AhTQieSaBr_3H4Pk4w1Y9mMLFqQqz7C0/view" , 
+            pfeBook2024:"",
+            web:"http://www.adn-expertise.fr/",
+         },
           
         ]
       })
