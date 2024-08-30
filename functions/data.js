@@ -14,11 +14,9 @@ exports.handler = async (event, context) => {
               pfeBook2023:"https://www.pfebook.com/wp-content/uploads/2023/11/STAGES-PFE-BOOK-2023-2024.pdf" , 
               pfeBook2024:"",
               web:"http://www.ey.com",
-              rate  :"4"
            },
            {
               name: "ACTIA Engineering Services", 
-              
               email : "",
               location : "Ariana, Ariana",
               shortdescription : "",
@@ -29,7 +27,6 @@ exports.handler = async (event, context) => {
               pfeBook2023:"https://www.linkedin.com/posts/actia-engineering-services_pfe-book-2024safety-cybersecurity-activity-7128770437202796544-xO7Q/?utm_source=share&utm_medium=member_desktop" , 
               pfeBook2024:"",
               web:"https://lab-engineering.actia.tn/actia-engineering-services/",
-              rate  :"4"
            },
            {
               name: "ADACTIM", 
@@ -42,7 +39,6 @@ exports.handler = async (event, context) => {
               pfeBook2023:"https://www.linkedin.com/feed/update/urn:li:activity:7138187960608264192/" , 
               pfeBook2024:"",
               web:"http://www.adactim.com",
-              rate  :"4"
            },
           
            {
@@ -56,7 +52,6 @@ exports.handler = async (event, context) => {
               pfeBook2023:"https://drive.google.com/file/d/1VTqD8Pp87MthHrc_GgUaQDQu7Hc9z4hT/view" , 
               pfeBook2024:"",
               web:"https://yess-consulting.com/",
-              rate  :"4"
            },
            {
               name: "xtensus", 
@@ -70,7 +65,6 @@ exports.handler = async (event, context) => {
               pfeBook2023:"https://drive.google.com/file/d/1D0sfID8IKWpY05fDbMpXa9VbQRT-HrVs/view" , 
               pfeBook2024:"",
               web:"http://www.xtensus.com",
-              rate  :"4"
            },
           
         ]
