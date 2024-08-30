@@ -28,7 +28,7 @@ exports.handler = async (event, context) => {
               Images : ["https://i.postimg.cc/wBJXt553/Adactim.png","https://i.postimg.cc/3xzjJfvP/20181213-143925.jpg","https://i.postimg.cc/4NLbjxN4/20181213-143451.jpg","https://i.postimg.cc/8z7BGgjR/20181213-143417.jpg"], 
               linkDin : "https://www.linkedin.com/company/adactis/about/" ,
               pfeBook:"https://www.linkedin.com/feed/update/urn:li:activity:7138187960608264192/" , 
-              web:"http://www.adactim.com",
+              web:"",
               rate  :"4"
            },
           
