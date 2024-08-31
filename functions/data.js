@@ -14,6 +14,8 @@ exports.handler = async (event, context) => {
               pfeBook2023:"https://www.pfebook.com/wp-content/uploads/2023/11/STAGES-PFE-BOOK-2023-2024.pdf" , 
               pfeBook2024:"",
               web:"http://www.ey.com",
+              long:"36.84444214128213",
+              lat:"10.200790182220814",
            },
            {
               name: "ACTIA Engineering Services", 
@@ -27,6 +29,8 @@ exports.handler = async (event, context) => {
               pfeBook2023:"https://www.linkedin.com/posts/actia-engineering-services_pfe-book-2024safety-cybersecurity-activity-7128770437202796544-xO7Q/?utm_source=share&utm_medium=member_desktop" , 
               pfeBook2024:"",
               web:"https://lab-engineering.actia.tn/actia-engineering-services/",
+              long:"36.89856776592702",
+              lat:"10.18738783942121",
            },
            {
               name: "ADACTIM", 
@@ -39,6 +43,8 @@ exports.handler = async (event, context) => {
               pfeBook2023:"https://www.linkedin.com/feed/update/urn:li:activity:7138187960608264192/" , 
               pfeBook2024:"",
               web:"http://www.adactim.com",
+              long:"36.897297814917394",
+              lat:"10.192676152744628",
            },
           
            {
@@ -53,6 +59,8 @@ exports.handler = async (event, context) => {
               pfeBook2023:"https://drive.google.com/file/d/1VTqD8Pp87MthHrc_GgUaQDQu7Hc9z4hT/view" , 
               pfeBook2024:"",
               web:"https://yess-consulting.com/",
+              long:"36.84422261436509",
+              lat:"10.197464323496211",
            },
            {
               name: "xtensus", 
@@ -66,6 +74,8 @@ exports.handler = async (event, context) => {
               pfeBook2023:"https://drive.google.com/file/d/1D0sfID8IKWpY05fDbMpXa9VbQRT-HrVs/view" , 
               pfeBook2024:"",
               web:"http://www.xtensus.com",
+              long:"36.883962940105114",
+              lat:"10.183998935249862",
            },
            {
             name: "ADDIXO", 
@@ -79,6 +89,8 @@ exports.handler = async (event, context) => {
             pfeBook2023:"https://drive.google.com/file/d/1Z9HCfOiJa8g_vFsF5tvOdYMJidXlyfsE/view" , 
             pfeBook2024:"",
             web:"https://www.addixo.com/fr/",
+            long:"36.80746705111353",
+            lat:"10.07259392670755",
          },
          {
             name: "ADN Expertise", 
@@ -92,6 +104,8 @@ exports.handler = async (event, context) => {
             pfeBook2023:"https://drive.google.com/file/d/1AhTQieSaBr_3H4Pk4w1Y9mMLFqQqz7C0/view" , 
             pfeBook2024:"",
             web:"http://www.adn-expertise.fr/",
+            long:"35.83375916428218",
+            lat:"10.590074234644215",
          },
           
         ]
