@@ -1,4 +1,6 @@
 exports.handler = async (event, context) => {
+   console.log("Serverless function invoked with event:", event);
+   console.log("Context:", context);
     return {
       statusCode: 200,
       body: JSON.stringify({
