@@ -11,7 +11,7 @@ exports.handler = async (event, context) => {
               shortdescription : "Travaillant dans les domaines de l'assurance, du conseil, du droit, de la stratégie, de la fiscalité et des transactions...",
               description: "EY existe pour construire un monde du travail meilleur, en contribuant à créer de la valeur à long terme pour les clients, les personnes et la société, et en renforçant la confiance dans les marchés de capitaux.Grâce aux données et à la technologie, des équipes diversifiées d'EY dans plus de 150 pays apportent leur confiance par le biais de l'assurance et aident les clients à croître, se transformer et fonctionner.Travaillant dans les domaines de l'assurance, du conseil, du droit, de la stratégie, de la fiscalité et des transactions, les équipes d'EY posent de meilleures questions pour trouver de nouvelles réponses aux problèmes complexes auxquels notre monde est confronté aujourd'hui.",
               sujet : "",
-              Images : ["https://i.postimg.cc/NG784MvP/1634368965482.jpg", "https://i.postimg.cc/RZqc4L6j/2023-11-10.jpg","https://i.postimg.cc/5N4BkVx9/IMG-20211109-143837.jpg","https://i.postimg.cc/X7swRzJf/IMG-20211119-110524.jpg"], 
+              Images : ["https://i.ibb.co/ZgM1t6P/1634368965482.jpg","https://i.ibb.co/2WWm1vr/2023-11-10.jpg", "https://i.ibb.co/JvMwMZY/1633963575197.jpg","https://i.ibb.co/pQLcp4Y/IMG-20211119-110524.jpg",], 
               linkDin : "https://www.linkedin.com/company/ernstandyoung/posts/?feedView=all" ,
               pfeBook2023:"https://www.pfebook.com/wp-content/uploads/2023/11/STAGES-PFE-BOOK-2023-2024.pdf" , 
               pfeBook2024:"",
