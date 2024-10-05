@@ -68,16 +68,16 @@ exports.handler = async (event, context) => {
               name: "Yess Consulting", 
               sujet : "",
               email : "contact@yess-consulting.com",
-              location : "Technopôle El Ghazala - 1, BP99 rue Newton, Ariana 2088",
+              location : " urbain nord 1083 cité el khadhra, 1003",
               shortdescription : "Yess Consulting est éditeur de progiciels intégrés de gestion, spécialisé dans le développement d'ERP depuis 2014...",
               description: "Yess Consulting est un éditeur de progiciels de gestion intégrés, spécialisé dans la conception de l'ERP YessClever. Notre équipe est constituée d'experts, de consultants et ingénieurs en nouvelles technologies, qui vous aident à atteindre vos objectifs business.Nous proposons également une multitude de services qui rallient technicité, expertise, accompagnement et maintenance.",
-              Images : ["https://i.ibb.co/yYFYsZC/2023-02-18.jpg","https://i.ibb.co/QbwbwCh/2024-08-06-1.jpg"], 
+              Images : ["https://i.postimg.cc/wv1dcvvt/2024-08-06.jpg","https://i.ibb.co/QbwbwCh/2024-08-06-1.jpg"], 
               linkDin : "https://www.linkedin.com/company/yessconsulting/about/" ,
               pfeBook2023:"https://drive.google.com/file/d/1VTqD8Pp87MthHrc_GgUaQDQu7Hc9z4hT/view" , 
               pfeBook2024:"",
               web:"https://yess-consulting.com/",
-              long:"36.84422261436509",
-              lat:"10.197464323496211",
+              long:"36.844284496821665",
+              lat:"10.197411757079058",
            },
            {
               name: "xtensus", 
@@ -91,8 +91,8 @@ exports.handler = async (event, context) => {
               pfeBook2023:"https://drive.google.com/file/d/1D0sfID8IKWpY05fDbMpXa9VbQRT-HrVs/view" , 
               pfeBook2024:"",
               web:"http://www.xtensus.com",
-              long:"36.883962940105114",
-              lat:"10.183998935249862",
+              long:"36.884391615175346",
+              lat:"10.18399702020408",
            },
            {
             name: "ADDIXO", 
@@ -106,8 +106,8 @@ exports.handler = async (event, context) => {
             pfeBook2023:"https://drive.google.com/file/d/1Z9HCfOiJa8g_vFsF5tvOdYMJidXlyfsE/view" , 
             pfeBook2024:"",
             web:"https://www.addixo.com/fr/",
-            long:"36.80746705111353",
-            lat:"10.07259392670755",
+            long:"36.807613705954026",
+            lat:"10.072614224397016",
          },
          {
             name: "ADN Expertise", 
@@ -121,8 +121,8 @@ exports.handler = async (event, context) => {
             pfeBook2023:"https://drive.google.com/file/d/1AhTQieSaBr_3H4Pk4w1Y9mMLFqQqz7C0/view" , 
             pfeBook2024:"",
             web:"http://www.adn-expertise.fr/",
-            long:"35.83375916428218",
-            lat:"10.590074234644215",
+            long:"35.83381981702676",
+            lat:"10.590005698220123",
          },   
          {
             name: "ADP", 
@@ -136,8 +136,8 @@ exports.handler = async (event, context) => {
             pfeBook2023:"https://www.linkedin.com/feed/update/urn:li:activity:7137458175867301889/" , 
             pfeBook2024:"",
             web:"https://www.adp.com/",
-            long:"36.84494877349594",
-            lat:"10.20084763481132",
+            long:"36.84502020177994",
+            lat:"10.200829258483013",
          },
          {
             name: "Agence Web AZ it", 
@@ -166,8 +166,8 @@ exports.handler = async (event, context) => {
             pfeBook2023:"https://drive.google.com/file/d/19mhj35BL_QWCayFjo1uHzkt-sx_8sH9D/view" , 
             pfeBook2024:"",
             web:"https://aiesec.org/",
-            long:"36.84494877349594",
-            lat:"10.20084763481132",
+            long:"33.49671458916819",
+            lat:"11.115775008853188",
          },
          {
             name: "AIVENTU", 
@@ -181,8 +181,8 @@ exports.handler = async (event, context) => {
             pfeBook2023:"https://www.linkedin.com/posts/aiventu_catalogue-pfe-2023-2024-activity-7130123080680534017-TZG8/?utm_source=share&utm_medium=member_android" , 
             pfeBook2024:"",
             web:"http://www.aiventu.com",
-            long:"36.84494877349594",
-            lat:"10.20084763481132",
+            long:"36.84888883799138",
+            lat:"10.27590111205327",
          },  
 
          {
@@ -197,8 +197,8 @@ exports.handler = async (event, context) => {
             pfeBook2023:"https://www.linkedin.com/jobs/view/3771391594/?alternateChannel=search&refId=qQvq2FUVHj5tMe34S%2FYbKg%3D%3D&trackingId=wufamleUIpfqMntUTXrc1Q%3D%3D&trk=d_flagship3_search_srp_jobs" , 
             pfeBook2024:"",
             web:"http://www.amaris.com",
-            long:"36.84494877349594",
-            lat:"10.20084763481132",
+            long:"36.89712665769107",
+            lat:"10.192250070923551",
          },  
          
          
@@ -214,8 +214,8 @@ exports.handler = async (event, context) => {
             pfeBook2023:"https://www.linkedin.com/posts/amecap-tunisia_pfe-book-2024-amecap-activity-7133899237062254592-ZbGV/?utm_source=share&utm_medium=member_desktop" , 
             pfeBook2024:"",
             web:"http://www.amecap.tn",
-            long:"36.84494877349594",
-            lat:"10.20084763481132",
+            long:"34.724665823551646",
+            lat:"10.74054226657982",
          },  
          {
             name: "Appaxis Innovations", 
@@ -229,8 +229,8 @@ exports.handler = async (event, context) => {
             pfeBook2023:"https://drive.google.com/file/d/19Z--bqIRNDSa0qe55gpkG976_B2DKFRh/view" , 
             pfeBook2024:"",
             web:"https://appaxisinnovations.tn/",
-            long:"36.84494877349594",
-            lat:"10.20084763481132",
+            long:"36.85802290467083",
+            lat:"10.18962003507907",
          },
 
          {
@@ -245,8 +245,8 @@ exports.handler = async (event, context) => {
             pfeBook2023:"https://www.linkedin.com/posts/arcana-soft_pfe-book-arcana-soft-activity-7124701118684672000-Fpu7/?utm_source=share&utm_medium=member_desktop" , 
             pfeBook2024:"",
             web:"https://arcana-soft.com/",
-            long:"36.84494877349594",
-            lat:"10.20084763481132",
+            long:"36.74352425539693",
+            lat:"10.253877498520426",
          },
        
          {
@@ -261,8 +261,8 @@ exports.handler = async (event, context) => {
             pfeBook2023:"https://www.linkedin.com/feed/update/urn:li:activity:7142249308619268096/" , 
             pfeBook2024:"",
             web:"http://www.arsii.org",
-            long:"36.84494877349594",
-            lat:"10.20084763481132",
+            long:"35.843412154191846",
+            lat:"10.595871336665608",
          },
 
          {
@@ -277,8 +277,8 @@ exports.handler = async (event, context) => {
             pfeBook2023:"https://www.linkedin.com/feed/update/urn:li:activity:7123625294078304256/" , 
             pfeBook2024:"",
             web:"http://www.ats-digital.com",
-            long:"36.84494877349594",
-            lat:"10.20084763481132",
+            long:"36.833308520806895",
+            lat:"10.236281305672685",
          },
 
 
