@@ -48,6 +48,21 @@ exports.handler = async (event, context) => {
               long:"36.897297814917394",
               lat:"10.192676152744628",
            },
+           {
+            name: "Orange", 
+            email : "1999.info@orange.com",
+            location : "Immeuble Orange, Centre Urbain Nord, 1003 Tunis, Tunisie.",
+            shortdescription : "1er opérateur à obtenirla certification Gender Equality European International Standard«(GEEIS) en faveur de sa politique d’égalité professionnelle femmes-hommes ainsi que de la promotion de la femme tunisienne",
+            description: "Orange est le 2ème opérateur privé de télécommunications en Tunisie et fait partie du Groupe Orange. Société de téléphonie fixe , mobile et internet présente sur le marché tunisien depuis le 5 Mai 2010, Orange Tunisie propose des lignes fixe, mobiles, de l’internet très Haut Débit 3G, de l’internet ADSL, des équipements de téléphonie mobile et de nombreux services à valeur ajoutée.",
+            sujet : "",
+            Images : ["https://i.postimg.cc/MHFdg6wz/orange-tunisie.png","https://i.postimg.cc/8kKK7H6x/146419784310-content.jpg"], 
+            linkDin : "https://www.linkedin.com/company/orange-tunisie/" ,
+            pfeBook2023:"https://drive.google.com/file/d/1p3tyzfWp82U9RSH1W_HynlCYAqqwgKr2/view?usp=sharing" , 
+            pfeBook2024:"",
+            web:"https://www.orange.tn/contact",
+            long:"35.82981846490757",
+            lat:"10.640741421935484",
+         },
           
            {
               name: "Yess Consulting", 
@@ -265,6 +280,64 @@ exports.handler = async (event, context) => {
             long:"36.84494877349594",
             lat:"10.20084763481132",
          },
+
+
+// long lat correct here !
+         {
+            name: "Timsoft Group", 
+            email : "contact@timsoft-group.com",
+            location : "Rue Lac Loch Ness, Tunis 1053 Les berges du lac 1",
+            shortdescription : "Timsoft, votre partenaire clé dans la transformation digitale du Retail, excelle dans plus de 35 pays à travers le globe, fort d'une présence de proximité via nos bureaux en France, en Tunisie et au Maroc.",
+            description: "Le groupe possède une vaste expérience dans les solutions logicielles B2B en tant que développeur et intégrateur d'ERP. Timsoft compte plus de 320 professionnels et plus de 1400 projets livrés. Nos 600 clients, principalement issus des secteurs du retail et de la mode, sont présents dans plus de 30 pays, avec une majorité en Europe et au Moyen-Orient.",
+            sujet : "",
+            Images : ["https://i.postimg.cc/N00nLz09/timsoftgroup-logo.jpg","https://i.postimg.cc/DzYMGPWC/468A0044.jpg"], 
+            linkDin : "https://www.linkedin.com/company/timsoftgroup/about/" ,
+            pfeBook2023:"https://www.linkedin.com/feed/update/urn:li:activity:7138522865838002178/" , 
+            pfeBook2024:"",
+            web:"https://timsoft-group.com/",
+            long:"36.83330732262236",
+            lat:"10.238547008383229",
+         },
+
+
+         {
+            name: "PURA", 
+            email : "contact.purasolutions@gmail.com",
+            location : "Pôle technologique de Sousse, Route de Ceinture Sahloul",
+            shortdescription : "PURA Solutions est une startup tunisienne spécialisée dans le développement de solutions matérielles et logicielles de pointe pour le secteur médical et au-delà.",
+            description: "Chez PURA Solutions, notre dévouement à la technologie et à l'innovation s'étend à la création de solutions sur mesure, à la fois logicielles et matérielles, spécifiquement adaptées au secteur médical .",
+            sujet : "",
+            Images : ["https://i.postimg.cc/JzbG2p3F/images-1.png"], 
+            linkDin : "https://www.linkedin.com/company/pura-solutions/?originalSubdomain=tn" ,
+            pfeBook2023:"https://drive.google.com/file/d/1xI4j6SuNOIJFv4mu0YC5HhBzaUnoXej4/view?usp=sharing" , 
+            pfeBook2024:"",
+            web:"http://pura-tech.com/",
+            long:"35.820596961383636",
+            lat:"10.593096870260121",
+         },
+
+
+
+
+         {
+            name: "PLM RESSOURCES", 
+            email : "info@allplm.com",
+            location : "126 Rue IBN Khaldoun, Bizerte",
+            shortdescription : "PLM RESSOURCES GMBH est une société allemande,partenaire officiel de siemens digital industries software dans l’Afrique du Nord",
+            description: "PLM RESSOURCES est spécialisé dans la transformation digitale des entreprises et des institutions, et ce dans la région du Maghreb. Se structure autour d’un bureau d’étude d’ingénierie mécanique et développement informatique. Elle accompagne ses clients dans leurs transformations vers la digitalisation et l'Industrie 4.0. .",
+            sujet : "",
+            Images : ["https://i.postimg.cc/RZFvcGsf/2023-09-29.jpg"], 
+            linkDin : "https://www.linkedin.com/company/plm-ressources-company/?originalSubdomain=tn" ,
+            pfeBook2023:"https://drive.google.com/file/d/1a3-YzjGcb9zHHBKmrqL-9T2a58ujFF-U/view?usp=sharing" , 
+            pfeBook2024:"",
+            web:"https://www.allplm.com/",
+            long:"37.27443710184872",
+            lat:"9.868745198430371",
+         },
+
+
+
+
 
 
          
