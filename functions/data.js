@@ -335,6 +335,40 @@ exports.handler = async (event, context) => {
             lat:"9.868745198430371",
          },
 
+         
+         {
+            name: "ASQII", 
+            email : "contact@asqii.tn",
+            location : "Rue Ibn Battouta, Le Kram, Tunisia",
+            shortdescription : "ASQII est une startup Healthtech dédiée à l'exploitation de la digitalisation, de l'analyse des données et de l'automatisation des processus pour améliorer les soins contre le cancer.",
+            description: "ASQII est une startup Healthtech dédiée à l'exploitation de la digitalisation, de l'analyse des données et de l'automatisation des processus pour améliorer les soins contre le cancer. Notre mission est d'offrir aux patients une expérience de santé optimale grâce à l'utilisation des technologies de pointe.",
+            sujet : "",
+            Images : ["https://i.postimg.cc/Qt4P2Gs8/asqii-logo.jpg"], 
+            linkDin : "https://www.linkedin.com/company/asqii/?originalSubdomain=tn" ,
+            pfeBook2023:"https://drive.google.com/file/d/1_kFsXHBRtGHjKjJVQC6IqNTWUzCe9Lzb/view" , 
+            pfeBook2024:"",
+            web:": www.asqii.tn",
+            long:"36.837135407949994",
+            lat:"10.202148040482378",
+         },
+
+
+         {
+            name: "AxeFinance", 
+            email : "info@axefinance.com",
+            location : "Tunis: Rue du lac Huron,1053 Les Berges du Lac",
+            shortdescription : " Des prêteurs mondiaux tels que Société Générale, Al Rajhi Bank, First Abu Dhabi Bank, Abu Dhabi Commercial Bank, Vietnam International Bank et Fidelity Bank ont fait confiance à Axe Finance.",
+            description: "Fondée en 2004, Axe Finance est un fournisseur de logiciels de premier plan à l'échelle mondiale, spécialisé dans l'automatisation des risques de crédit pour les prêteurs souhaitant offrir une expérience de financement omnicanal efficace, compétitive et fluide. AxeFinance a développé Axe Credit Portal, une solution innovante, alimentée par l'IA, conçue pour automatiser l'ensemble du cycle de vie du crédit, depuis la connaissance du client (KYC) jusqu'au service, en passant par l'octroi, le scoring de crédit et la prise de décision automatique.",
+            sujet : "",
+            Images : ["https://i.postimg.cc/g2hxrmB7/axe1.jpg,https://i.postimg.cc/ZK29TCj3/crop-img-98a1bb6d1d790a3987e6ebc8975c5bf4.jpg"], 
+            linkDin : "https://www.linkedin.com/company/axe-finance/?originalSubdomain=fr" ,
+            pfeBook2023:"https://drive.google.com/file/d/1smsr7C9CCM1mygQcxAtUqrJ_KTx9XOuA/view" , 
+            pfeBook2024:"",
+            web:"www.axefinance.com",
+            long:"36.83662604063392",
+            lat:"10.248013200000003",
+         },
+
 
 
 
