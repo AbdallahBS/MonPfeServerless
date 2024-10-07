@@ -369,6 +369,38 @@ exports.handler = async (event, context) => {
             lat:"10.248013200000003",
          },
 
+         {
+            name: "Bee Coders", 
+            email : "contact@9antra.tn",
+            location : "Technopole El Ghazela",
+            shortdescription : " Fondée en 2020, Bee Coders est une entreprise de services numériques dédiée à la création de solutions digitales uniques et sur mesure qui ont un véritable impact.",
+            description: "Axée sur l'innovation et engagée envers l'excellence, nous nous spécialisons dans la livraison de produits et d'expériences numériques qui redéfinissent les standards de l'industrie et mettent nos clients sur la voie du succès numérique. Depuis sa création, Bee Coders cultive une culture d'entreprise centrée sur la flexibilité, le soutien et la qualité. Ces principes représentent l'essence même des valeurs fondamentales de l'entreprise.",
+            sujet : "",
+            Images : ["https://i.postimg.cc/h4JsM7JQ/1666711282616.jpg"], 
+            linkDin : "https://www.linkedin.com/company/bee-coders/?originalSubdomain=tn" ,
+            pfeBook2023:"https://drive.google.com/file/d/1bSQ1D0q3DcE1Llwhb3-pDIodXV2VJ6g-/view" , 
+            pfeBook2024:"",
+            web:"https://www.beecoders.tn/",
+            long:"36.89617015153085",
+            lat:"10.186281826863004",
+         },
+         {
+            name: "BePrimetech", 
+            email : "stage@beprimetech.com",
+            location : "Route de Tunis, Km 4 Markez Bouasida, Sfax 3031",
+            shortdescription : " BePrimeTech est une Start-Up ayant comme spécialité la création et le développement des solutions logicielles adaptées à la croissance perpétuelle de la vie professionnelle",
+            description: "BePrimeTech garantit un accompagnement et un suivi de qualité lors de la création de solutions sur-mesure grâce à nos départements performants.Nous cherchons toujours à mettre l'accent sur des profils Passionnés, Bosseurs, Créatifs et Ambitieux... En tant qu'éditeur de solutions technologiques, BePrimeTech se distingue par la création d'un produit axé sur la digitalisation de l'activité hôtelière et de la voyagerie.",
+            sujet : "",
+            Images : ["https://i.postimg.cc/CKTpLVWm/1649847427237.jpg"], 
+            linkDin : "https://www.linkedin.com/company/be-prime-tech/?originalSubdomain=tn" ,
+            pfeBook2023:"https://drive.google.com/file/d/1eWk8W0lfBhYgNAstwsv4BAWYkin58M7l/view" , 
+            pfeBook2024:"",
+            web:"https://beprimetech.com/",
+            long:"34.778797802093244",
+            lat:"10.760595444176452",
+         },
+
+
 
 
 
