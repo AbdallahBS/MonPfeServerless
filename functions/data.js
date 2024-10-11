@@ -399,8 +399,81 @@ exports.handler = async (event, context) => {
             long:"34.778797802093244",
             lat:"10.760595444176452",
          },
+         
+         {
+            name: "Luceor", 
+            email : "support@luceor.com",
+            location : "Technopark Elghazela, Tunis",
+            shortdescription : " Pour les organisations ayant des besoins de connectivité spécialisés, les produits de Luceor simplifient la prise de décision et permettent de combiner au mieux couverture, bande passante, confidentialité, sécurité et coût.",
+            description: "La technologie hautement adaptable de Luceor offre un accès intelligent à un ensemble d'options réseau, garantissant une connectivité résiliente et ininterrompue, où que vous soyez et à tout moment. Avec plus de 450 déploiements pour des systèmes d'urgence, des événements majeurs et des applications militaires dans 15 pays différents, Luceor est un leader mondial dans les applications de connectivité spécialisée. Plus de 100 villes, gouvernements fédéraux et entreprises font confiance à Luceor pour répondre à leurs besoins en réseaux critiques.",
+            sujet : "",
+            Images : ["https://i.postimg.cc/90ZP7b1s/843-1669728062.png","https://i.postimg.cc/jq74mqKv/1700670303289.jpg"], 
+            linkDin : "https://www.linkedin.com/company/luceor/?originalSubdomain=fr" ,
+            pfeBook2023:"https://drive.google.com/file/d/1ujx2IzNlL8R_o-KPz3mRGv9FeHRElmnf/view?usp=sharing" , 
+            pfeBook2024:"",
+            web:"http://www.luceor.com",
+            long:"36.89564925636406",
+            lat:"10.186032415932166",
+         },
 
 
+
+         {
+            name: "AYMAX", 
+            email : "recrute@aymax.fr",
+            location : "2ème étage, Bloc B de Immeuble Youssef Towers - Avenue de Dinars 1053, Tunis 1053",
+            shortdescription : " Aymax est une entreprise de services du numérique (E.S.N.) internationale experte dans le conseil, le développement d’applications digitales, de solutions web et l’intégration de solutions ERP/SAP.",
+            description: "Créée en 2014 à Paris par un groupe de consultants·tes possédant une vision moderne et flexible du monde du conseil SAP, nous sommes aujourd’hui plus de 200 collaborateurs·rices, en France, Tunisie, Egypte et en Belgique. Notre croissance exponentielle en 10 ans est le fruit de nos collaborations et de l’interconnexion de nos bureaux. Par notre proximité, nous nous engageons à soutenir chaque membre de notre équipe, pour l’accompagner dans le développement de ses compétences aussi bien métiers, qu’humaine et interpersonnelle.",
+
+            sujet : "",
+            Images : ["https://i.postimg.cc/vTvNFG9P/2023-09-12.png","https://i.postimg.cc/ZYPgyxgr/DSC-6291.jpg"], 
+            linkDin : "https://www.linkedin.com/company/aymax-consulting/?originalSubdomain=tn" ,
+            pfeBook2023:"https://drive.google.com/file/d/1A0gwCaEk-2QLVvMJx9on53DR1fY64GKd/view?usp=sharing" , 
+            pfeBook2024:"",
+            web:"https://aymax.fr/",
+            long:"36.847400077396856",
+            lat:"10.268412498676616",
+         },
+
+
+         {
+            name: "WildKard", 
+            email : "Recrutement@wildkard.tn",
+            location : "Cebalet Ben Ammar, Route de Bizerte Km 17, Ariana Tunis, 2032",
+            description: "Wildkard est le premier site de vente en ligne Tunisie , L’endroit où vous trouvez tout ce dont vous avez besoin, de la mode pour hommes, femmes et enfants aux chaussures et survêtements, en passant par la nutrition sportive, les soins de la peau et les produits de beauté.",
+            shortdescription : " Wildkard est le premier site de vente en ligne Tunisie , L’endroit où vous trouvez tout ce dont vous avez besoin, de la mode pour hommes, femmes et enfants aux chaussures et survêtements, en passant par la nutrition sportive, les soins de la peau et les produits de beauté.",
+
+            sujet : "",
+            Images : ["https://i.postimg.cc/3JLdY6XN/images-2.png"], 
+            linkDin : "https://www.linkedin.com/company/wildkard/?originalSubdomain=tn" ,
+            pfeBook2023:"https://drive.google.com/file/d/1JJ9r6VQsVqlGDm2sBj0GTxjgQ91xnUUB/view?usp=sharing" , 
+            pfeBook2024:"",
+            web:"http://www.wildkard.tn",
+            long:"36.90389434031025",
+            lat:"10.108805816938188",
+         },
+         
+
+
+
+         
+        {
+            name: "VTL", 
+            email : "Recrutement@vtl.com.tn",
+            location : "Zone Indus tri e l l e RUE DE KORBA Km2 -8080 - Menz e l Temime",
+            description: "Avec 9 sites répartis entre Menzel Temime et Menzel Bouzelfa, VTL n'est pas une entreprise textile ordinaire. Elle comprend six unités de production de vêtements, une unité d'impression sérigraphique, ainsi qu'une unité dédiée au tissage, au tricotage et à la finition textile C'est exact, nous couvrons tous les aspects ! Et la meilleure partie ? Nous sommes une entreprise textile entièrement intégrée verticalement, spécialisée dans l'exportation. Cela signifie que nous proposons un ensemble complet de services à nos clients, comprenant les matières premières, le développement et la conception de produits, la production, la finition, la logistique, et bien plus encore.",
+            shortdescription : " VTL est l'une des principales entreprises textiles non seulement en Tunisie mais aussi dans la région méditerranéenne.",
+
+            sujet : "",
+            Images : ["https://i.postimg.cc/j5ZryVdJ/images-2.jpg"], 
+            linkDin : "https://www.linkedin.com/company/vtl-menzel-temime/?originalSubdomain=tn" ,
+            pfeBook2023:"https://drive.google.com/file/d/1u951qpxRR7CDQ_xuowMEHv3JcfzoHrEu/view?usp=sharing" , 
+            pfeBook2024:"",
+            web:"https://www.linkedin.com/company/vtl-menzel-temime/about/",
+            long:"36.76028780320655",
+            lat:"10.972818262610376",
+         },
+         
 
 
 
