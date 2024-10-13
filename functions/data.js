@@ -458,6 +458,25 @@ exports.handler = async (event, context) => {
 
          
         {
+            name: "Valeo", 
+            email : "cda.recrutement-valeo-tn.mailbox@valeo.com",
+            location : "Q65J+J4J، Rue Des Métaux, Ben Arous 2013",
+            description: "Valeo est l’une des premières multinationales installées en Tunisie et ce depuis 36 ans. Opérant avec 4 sites répartis sur le territoire tunisien, avec près de 2000 employés hautement qualifiés, Valeo Tunisie livre des produits pour les plus grands constructeurs automobiles dans le monde.Valeo Tunisie a débuté avec une unité de production basée à Jedeida avec seulement 52 employés. Avec un personnel réduit mais très professionnel, le site a réussi à livrer ses produits de qualité et à satisfaire ses clients. Les activités de Valeo Tunisie ont commencé en 1984 avec le Groupe “Powertrain Systems” (PTS), en installant le premier site “Valeo Embrayages Tunisie” qui produit deux produits phares, les embrayages et les volants moteurs.",
+            shortdescription : " Valeo est l’une des premières multinationales installées en Tunisie et ce depuis 36 ans.",
+
+            sujet : "",
+            Images : ["https://i.postimg.cc/029QVYcD/tunisia-country-page-valeo-01-1600x698-acf-cropped.jpg","https://i.postimg.cc/15Mz28jT/tunisia-country-page-valeo-08.jpg"], 
+            linkDin : "https://www.linkedin.com/company/valeo/" ,
+            pfeBook2023:"https://drive.google.com/file/d/1Q5AXveBKjowoyZTnb7dx2vUeaa-4uXzv/view?usp=sharing" , 
+            pfeBook2024:"",
+            web:"https://www.valeo.com/fr/tunisie/",
+            long:"36.75932697067812",
+            lat:"10.23028083519563",
+         },
+         
+
+         
+         {
             name: "VTL", 
             email : "Recrutement@vtl.com.tn",
             location : "Zone Indus tri e l l e RUE DE KORBA Km2 -8080 - Menz e l Temime",
@@ -473,10 +492,62 @@ exports.handler = async (event, context) => {
             long:"36.76028780320655",
             lat:"10.972818262610376",
          },
+
+         {
+            name: "Tunisie Telecom", 
+            email : "contact@tunisietelecom.tn",
+            location : "Les jardins du Lac II, Tunis, 1073, TN",
+            description: "Depuis sa création, Tunisie Telecom a toujours assuré son rôle en tant qu’entreprise citoyenne pour contribuer au développement durable du pays. Tunisie Telecom n’a cessé d’être proche de ses clients en assurant un support soutenu à la culture, au sport, et aux activités liées à l’environnement, l'éducation, l'entrepreneuriat, etc. Tunisie Telecom a pour vision de simplifier le quotidien de tous les tunisiens en accélérant l’adoption du Très Haut Débit et la transformation digitale de la société tunisienne. ",
+            shortdescription : " Tunisie Telecom est parmi les pionniers des grands opérateurs Telecom de la région. C’est l’opérateur historique en Tunisie (plus de 150 ans). Tunisie Telecom offre des services de communication (téléphonie fixe, mobile et Internet) au grand public, entreprises, FSI et opérateurs tiers…",
+
+            sujet : "",
+            Images : ["https://i.postimg.cc/nLLZmTVc/tt-2-jpg.webp"], 
+            linkDin : "https://www.linkedin.com/company/tunisie-t-l-com/" ,
+            pfeBook2023:"https://drive.google.com/file/d/1sFtAsl8PqUvDlDHaC-5oo9RtIN2EmIi2/view" , 
+            pfeBook2024:"",
+            web:"https://www.tunisietelecom.tn/particulier/",
+            long:"36.772441665541116",
+            lat:"10.273378702348445",
+         },
+
+
+
+         {
+            name: "Tnker", 
+            email : "tnker.tn@gmail.com",
+            location : "Borj Baccouche,Residence Alya, Ariana",
+            description: "Pendant ce temps, pour les prestataires de services, Tnker agit comme un catalyseur numérique, offrant une visibilité en ligne accrue et un outil sophistiqué de suivi des tâches. Cela permet aux prestataires d'améliorer leur activité, d'optimiser leurs flux de travail et de gérer efficacement leurs tâches, ce qui entraîne une amélioration globale de leurs projets professionnels.",
+            shortdescription : "Tnker est une application mobile à la pointe de la technologie qui utilise des algorithmes de recommandation et de réseautage social pour connecter de manière fluide les personnes en quête de services avec des prestataires qualifiés.",
+
+            sujet : "",
+            Images : ["https://i.postimg.cc/wjvbcrNP/1652989035215.jpg"], 
+            linkDin : "https://www.linkedin.com/company/tnkertn/?originalSubdomain=tn" ,
+            pfeBook2023:"https://drive.google.com/file/d/1b0gYPRwKBktvKUEgm_sD0wy-fpWlP_rn/view" , 
+            pfeBook2024:"",
+            web:"www.tnker.tn",
+            long:"36.85695203642154",
+            lat:"10.198924638031269",
+         },
          
 
 
+         {
+            name: "TADREEX", 
+            email : "contact@tadreex.com",
+            location : "Novation City, Technopole de Sousse Sousse, 4051, Sousse, TN",
+            description: "Fondée en 2021,TadreeX est spécialisée dans la création de formations professionnelles révolutionnaires en utilisant la réalité virtuelle. Nous exploitons la puissance de cette technologie pour développer une expérience de formation inédite en matière de sécurité et de santé au travail.",
+            shortdescription : "Fondée en 2021,TadreeX est spécialisée dans la création de formations professionnelles révolutionnaires en utilisant la réalité virtuelle. Nous exploitons la puissance de cette technologie pour développer une expérience de formation inédite en matière de sécurité et de santé au travail.",
 
+            sujet : "",
+            Images : ["https://i.postimg.cc/x1J3dVM0/images-3.png"], 
+            linkDin : "https://www.linkedin.com/company/tadreex/" ,
+            pfeBook2023:"https://drive.google.com/file/d/1ZLoPOnhPVEiClIN_vHyenj9VfpXzmBeA/view?usp=sharing" , 
+            pfeBook2024:"",
+            web:"www.tadreex.com",
+            long:"35.81647694854135",
+            lat:"10.591375701544361",
+         },
+         
 
 
          
