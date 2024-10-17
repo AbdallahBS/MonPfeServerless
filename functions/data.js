@@ -566,7 +566,7 @@ exports.handler = async (event, context) => {
          },
 
          {
-            name: "abdallah", 
+            name: "STMicroelectronics", 
             email : "non disponible",
             location : "Bloc B33, Elgazela Technopark, Cedex 2088",
             description: "ST est un leader mondial des semi-conducteurs, proposant des produits et des solutions intelligents et économes en énergie qui alimentent les technologies au cœur de la vie quotidienne. Les produits de ST sont omniprésents aujourd'hui et, avec nos clients, nous rendons possible une conduite plus intelligente, ainsi que des usines, des villes et des maisons plus intelligentes, tout en accompagnant la prochaine génération de dispositifs mobiles et de l'Internet des objets. En tirant le meilleur parti de la technologie pour améliorer la vie, ST se veut synonyme de « life.augmented ».",
