@@ -524,7 +524,7 @@ exports.handler = async (event, context) => {
             linkDin : "https://www.linkedin.com/company/tnkertn/?originalSubdomain=tn" ,
             pfeBook2023:"https://drive.google.com/file/d/1b0gYPRwKBktvKUEgm_sD0wy-fpWlP_rn/view" , 
             pfeBook2024:"",
-            web:"www.tnker.tn",
+            web:"https://tnker.tn/",
             long:"36.85695203642154",
             lat:"10.198924638031269",
          },
@@ -543,12 +543,28 @@ exports.handler = async (event, context) => {
             linkDin : "https://www.linkedin.com/company/tadreex/" ,
             pfeBook2023:"https://drive.google.com/file/d/1ZLoPOnhPVEiClIN_vHyenj9VfpXzmBeA/view?usp=sharing" , 
             pfeBook2024:"",
-            web:"www.tadreex.com",
+            web:"https://tadreex58b3ba199b.wordpress.com/",
             long:"35.81647694854135",
             lat:"10.591375701544361",
          },
          
+         {
+            name: "StreamLink", 
+            email : "contact@streamlink.fr",
+            location : "Immeuble Golden Tower Bloc A1.9 1082 Centre Urbain-Nord Ariana El Menzeh, Tunisie.",
+            description: "Streamlink est un cabinet de conseil et de services technologiques, créé en 2017. nos services conviennent à tous types d'applications incluant les ordinateurs centraux, les applications web ou de développement « maison » ainsi que les logiciels ERP/CRM.",
+            shortdescription : "spécialisée dans le digital, SAP et le BI, est présente dans les domaines de la banque, de la finance, de l'assurance, du service et de l'industrie. ",
 
+            sujet : "",
+            Images : ["https://i.postimg.cc/PqGyF6BK/streamlink-sas-logo.jpg","https://postimg.cc/1g3wwN47"], 
+            linkDin : "https://www.linkedin.com/company/streamlink-sas/?trk=ppro_cprof&originalSubdomain=tn" ,
+            pfeBook2023:"https://drive.google.com/file/d/1RgIJeLpyFo3xvw2tolXL1sNA-wzjk3BW/view?usp=sharing" , 
+            pfeBook2024:"",
+            web:"https://www.streamlink.fr/",
+            long:"36.84900491993795",
+            lat:"10.19975063904588",
+         },
+         
 
          
         ]
