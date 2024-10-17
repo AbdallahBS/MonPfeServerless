@@ -564,6 +564,23 @@ exports.handler = async (event, context) => {
             long:"36.84900491993795",
             lat:"10.19975063904588",
          },
+
+         {
+            name: "STMicroelectronics", 
+            email : "non disponible",
+            location : "Bloc B33, Elgazela Technopark, Cedex 2088",
+            description: "ST est un leader mondial des semi-conducteurs, proposant des produits et des solutions intelligents et économes en énergie qui alimentent les technologies au cœur de la vie quotidienne. Les produits de ST sont omniprésents aujourd'hui et, avec nos clients, nous rendons possible une conduite plus intelligente, ainsi que des usines, des villes et des maisons plus intelligentes, tout en accompagnant la prochaine génération de dispositifs mobiles et de l'Internet des objets. En tirant le meilleur parti de la technologie pour améliorer la vie, ST se veut synonyme de « life.augmented ».",
+            shortdescription : "ST est un leader mondial des semi-conducteurs, proposant des produits et des solutions intelligents et économes en énergie qui alimentent les technologies au cœur de la vie quotidienne. ",
+
+            sujet : "",
+            Images : ["https://i.postimg.cc/P5rG6qn2/logo-20140521-101306.jpg"], 
+            linkDin : "https://www.linkedin.com/company/stmicroelectronics/?originalSubdomain=tn" ,
+            pfeBook2023:"https://drive.google.com/file/d/1RgIJeLpyFo3xvw2tolXL1sNA-wzjk3BW/view?usp=sharing" , 
+            pfeBook2024:"",
+            web:"https://www.st.com/content/st_com/en.html?src=linkedin",
+            long:"36.89545897934762",
+            lat:"10.187151850104936",
+         },
          
 
          
