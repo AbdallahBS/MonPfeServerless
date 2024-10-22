@@ -581,6 +581,24 @@ exports.handler = async (event, context) => {
             long:"36.89545897934762",
             lat:"10.187151850104936",
          },
+
+
+         {
+            name: "SECURAS", 
+            email : "securas.sousse@planet.tn",
+            location : "19, Rue de l'artisanat, Tunis",
+            description: "SECURAS s’assure en permanence des qualités morales professionnelles de ses cadres afin de réaliser ses missions avec l’absolue impartialité.Notre CompétenceLes missions de SECURAS sont réalisées par des ingénieurs Séniors d’une longue expérience encadrés par la Direction Technique. SECURAS s’est toujours engagé dans le développement permanent de la compétence de ses cadres à travers la formation continue et le retour sur expérience.",
+            shortdescription : "SECURAS TECHNOLOGIES est une Startup qui propose des solutions et des services de Cybersécurité et Cyber Threat Intelligence permettant à la fois de détecter et prévenir les attaques et les menaces cyber. ",
+
+            sujet : "",
+            Images : ["https://i.postimg.cc/7hCMWCBd/securas-sas-logo.jpg"], 
+            linkDin : "https://www.linkedin.com/company/securas/?originalSubdomain=tn" ,
+            pfeBook2023:"https://drive.google.com/file/d/1fBgTJTht-vdEFEw47pxGRReIKLYGYbUh/view?usp=sharing" , 
+            pfeBook2024:"",
+            web:"http://www.securas.tn/",
+            long:"36.85280250096342",
+            lat:"10.20460658630593",
+         },
          
 
          
