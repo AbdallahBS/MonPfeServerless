@@ -600,7 +600,22 @@ exports.handler = async (event, context) => {
             lat:"10.20460658630593",
          },
          
+         {
+            name: "Tradrly", 
+            email : "tradrly.job@gmail.com",
+            location : "Mahdia , Tunisie",
+            description: "Notre mission est de donner aux entreprises du monde entier les moyens de concrétiser leurs idées visionnaires. Avec une équipe dynamique d’experts, dévouée à repousser les limites de la transformation numérique, nous nous spécialisons dans le développement d’applications sur mesure, adaptées aux besoins uniques de notre clientèle diversifiée. Des startups aux entreprises bien établies, notre objectif est de faciliter des parcours numériques fluides, en veillant à ce que chaque projet que nous entreprenons dépasse les attentes de nos clients. Rejoignez-nous pour redéfinir l’avenir de la technologie, projet par projet.",
+            shortdescription : "Basée au cœur vibrant de Mahdia, en Tunisie, notre startup innovante se positionne à l’avant-garde de la création de solutions de pointe qui allient le meilleur des technologies web, mobile et de l’intelligence artificielle.",
 
+            sujet : "",
+            Images : ["https://i.postimg.cc/GmKwfXhs/tradrly-tn-cover.jpg"], 
+            linkDin : "https://www.linkedin.com/company/tradrly-tn/" ,
+            pfeBook2023:"" , 
+            pfeBook2024:"https://www.linkedin.com/posts/salah-sammari_pfe-book-ugcPost-7254775990642475008-vdwJ/?utm_source=share&utm_medium=member_desktop&fbclid=IwY2xjawGGWIFleHRuA2FlbQIxMAABHRGR4X9X6IG71MFPEwKQGIN-Ee4KcrepX7HZT7DQD9cuMCm_XggDWx7BEg_aem_EQYPPUfa7nxkwAR1kxKw5g",
+            web:"Non disponible",
+            long:"35.504043035486035",
+            lat:" 11.068138012994556",
+         },
          
         ]
       })
