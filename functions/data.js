@@ -275,7 +275,7 @@ exports.handler = async (event, context) => {
             Images : ["https://i.ibb.co/0yMsBxT/ats-digital-dev-logo.jpg"], 
             linkDin : "https://www.linkedin.com/company/ats---digital-dev/about/" ,
             pfeBook2023:"https://www.linkedin.com/feed/update/urn:li:activity:7123625294078304256/" , 
-            pfeBook2024:"",
+            pfeBook2024:"https://www.linkedin.com/feed/update/urn:li:activity:7246564406350761985/",
             web:"http://www.ats-digital.com",
             long:"36.833308520806895",
             lat:"10.236281305672685",
