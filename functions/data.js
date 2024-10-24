@@ -616,6 +616,24 @@ exports.handler = async (event, context) => {
             long:"35.504043035486035",
             lat:" 11.068138012994556",
          },
+
+
+         {
+            name: "Safran", 
+            email : "catherine.malek@safrangroup.com",
+            location : "Route de Tunis km 6",
+            description: "Safran S.A. est une multinationale française spécialisée dans l'aérospatiale et la défense, qui conçoit, développe et fabrique des moteurs d'avions, des moteurs d'hélicoptères, des systèmes de propulsion spatiale ainsi que divers autres équipements aéronautiques et militaires. L'entreprise est née en 2005 de la fusion entre SNECMA et le spécialiste de l'électronique de défense SAGEM. L'acquisition de Zodiac Aerospace par Safran en 2018 a considérablement élargi ses activités dans le domaine de l'aéronautique.",
+            shortdescription : "Safran S.A. est une multinationale française spécialisée dans l'aérospatiale et la défense, qui conçoit, développe et fabrique des moteurs d'avions, des moteurs d'hélicoptères, des systèmes de propulsion spatiale ainsi que divers autres équipements aéronautiques et militaires. ",
+
+            sujet : "",
+            Images : ["https://i.postimg.cc/Bn4MDbns/logo-14803-20190823-111418.png"], 
+            linkDin : "https://www.linkedin.com/in/safran-tunisia-6048b5121/" ,
+            pfeBook2023:"https://drive.google.com/file/d/1fpyQ89c3C-KnjT6OIO6Jm4d1xVyj-4tO/view?usp=sharing" , 
+            pfeBook2024:"",
+            web:"https://www.safran-group.com/fr/pays/tunisie",
+            long:"36.69798098408839",
+            lat:"10.445718737311415",
+         },
          
         ]
       })
