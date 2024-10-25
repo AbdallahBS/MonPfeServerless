@@ -5,6 +5,22 @@ exports.handler = async (event, context) => {
       statusCode: 200,
       body: JSON.stringify({
         items: [
+
+         {
+            name: "ATS - Digital Dev", 
+            email : "recrutement@ats-digital.com",
+            location : "Immeuble Zahra, Bloc A , Passage du lac Turkana 1053 • Les Berges du Lac",
+            shortdescription : "Une start-up innovante offrant des services autour des nouvelles technologies, avec une offre autour de 4 piliers :CONSEIL ET PILOTAGE,WEB & MOBILE,DATA,OPS & CYBERSECURITY",
+            description: "- CONSEIL ET PILOTAGE :  nous accompagnons nos clients à faire les bons choix pour leur transformation digitale, nous les aidons à organiser et gérer la mise en œuvre du produit (applications WEB et mobile), nous les assistons à faire évoluer leur organisation numérique - WEB & MOBILE :  nous accompagnons nos clients à concevoir, à implémenter et à maintenir des plateformes WEB et des applications mobiles répondant aux besoins, performantes et scalables - DATA : nous accompagnons nos clients à mieux gérer leurs données et à tirer profit du Big Data - OPS & CYBERSECURITY : nous accompagnons nos clients dans la mise en œuvre et l’exploitation des infrastructures Cloud avec les bonnes pratiques de sécurité",
+            sujet : "",
+            Images : ["https://i.ibb.co/0yMsBxT/ats-digital-dev-logo.jpg"], 
+            linkDin : "https://www.linkedin.com/company/ats---digital-dev/about/" ,
+            pfeBook2023:"https://www.linkedin.com/feed/update/urn:li:activity:7123625294078304256/" , 
+            pfeBook2024:"https://www.linkedin.com/feed/update/urn:li:activity:7246564406350761985/",
+            web:"http://www.ats-digital.com",
+            long:"36.833308520806895",
+            lat:"10.236281305672685",
+         },
          {   name: "Decade", 
               email : "recrutement@decade.fr",  
               location : "Immeuble Le Montplaisir Avenue Kheireddine Pacha Montplaisir , Tunis, Tunis 1073, TN",
@@ -294,21 +310,7 @@ exports.handler = async (event, context) => {
             lat:"10.595871336665608",
          },
 
-         {
-            name: "ATS - Digital Dev", 
-            email : "recrutement@ats-digital.com",
-            location : "Immeuble Zahra, Bloc A , Passage du lac Turkana 1053 • Les Berges du Lac",
-            shortdescription : "Une start-up innovante offrant des services autour des nouvelles technologies, avec une offre autour de 4 piliers :CONSEIL ET PILOTAGE,WEB & MOBILE,DATA,OPS & CYBERSECURITY",
-            description: "- CONSEIL ET PILOTAGE :  nous accompagnons nos clients à faire les bons choix pour leur transformation digitale, nous les aidons à organiser et gérer la mise en œuvre du produit (applications WEB et mobile), nous les assistons à faire évoluer leur organisation numérique - WEB & MOBILE :  nous accompagnons nos clients à concevoir, à implémenter et à maintenir des plateformes WEB et des applications mobiles répondant aux besoins, performantes et scalables - DATA : nous accompagnons nos clients à mieux gérer leurs données et à tirer profit du Big Data - OPS & CYBERSECURITY : nous accompagnons nos clients dans la mise en œuvre et l’exploitation des infrastructures Cloud avec les bonnes pratiques de sécurité",
-            sujet : "",
-            Images : ["https://i.ibb.co/0yMsBxT/ats-digital-dev-logo.jpg"], 
-            linkDin : "https://www.linkedin.com/company/ats---digital-dev/about/" ,
-            pfeBook2023:"https://www.linkedin.com/feed/update/urn:li:activity:7123625294078304256/" , 
-            pfeBook2024:"https://www.linkedin.com/feed/update/urn:li:activity:7246564406350761985/",
-            web:"http://www.ats-digital.com",
-            long:"36.833308520806895",
-            lat:"10.236281305672685",
-         },
+       
 
 
 // long lat correct here !
