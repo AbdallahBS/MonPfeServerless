@@ -5,6 +5,22 @@ exports.handler = async (event, context) => {
       statusCode: 200,
       body: JSON.stringify({
         items: [
+
+
+         {   name: "Efrekiadev", 
+            email : "contact@efrekiadev.com",  
+            location : "Monastir, R6 Monastir centre medicale EYA",
+              shortdescription : "Agence web Tunisienne spécialisée dans la création de sites web. De même que, nous sommes Spécialisés aussi dans le marketing Digitale. ",
+              description: "Agence web Tunisienne spécialisée dans la création de sites web. De même que, nous sommes Spécialisés aussi dans le marketing Digitale. Ainsi que dans le développement web sur mesure. Encore, nous assurons la création de site e-commerce, site vitrine et les sites web dynamiques. EFREKIADEV, facilite votre transformation digitale marketing. Ainsi que, grâce à notre expertise en développement web, nous assurons la création des solutions web performantes et suivant les normes du web 2.0. De ce fait, nos services varient de la création de marketplace, jusqu'au développement d’application web. Ainsi qu’une grande expertise en référencement naturel, ce qui fait de nous aussi une agence SEO et agence SEA.",
+              sujet : "",
+              Images : ["https://i.postimg.cc/y6n8QqYK/images-4.jpg"], 
+              linkDin : "https://www.linkedin.com/company/efrekiadev/?originalSubdomain=tn" ,
+              pfeBook2023:"" , 
+              pfeBook2024:"https://www.linkedin.com/posts/tarek-ben-regaya_book-pfe-activity-7251209412483108864-s5LM/?utm_source=share&utm_medium=member_desktop",
+              web:"https://efrekiadev.com/",
+              long:"35.76696649545069",
+              lat:"10.83202286698005",
+           },
           {   name: "Ey Tunisie", 
             email : "eyrecruit@tn.ey.com",  
             location : "Avenue Fadhel Ben Achour Centre Urbain Nord",
@@ -634,6 +650,7 @@ exports.handler = async (event, context) => {
             long:"36.69798098408839",
             lat:"10.445718737311415",
          },
+         
          
         ]
       })
