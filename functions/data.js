@@ -5,7 +5,20 @@ exports.handler = async (event, context) => {
       statusCode: 200,
       body: JSON.stringify({
         items: [
-
+         {   name: "Decade", 
+              email : "recrutement@decade.fr",  
+              location : "Immeuble Le Montplaisir Avenue Kheireddine Pacha Montplaisir , Tunis, Tunis 1073, TN",
+              shortdescription : "Fondée en 1988, DECADE se positionne dans l’accompagnement des entreprises et enseignes de commerce « traditionnel » qui se lancent ou évoluent dans l’aventure de l’e-commerce, et qui veulent y faire rayonner leur propre modèle de développement.",
+              description: "DECADE intervient en maîtrise d'œuvre (développement et intégration de solutions e-commerce), avec une offre centrée sur la fiabilisation des projets e-commerce aux différents stades de leur évolution : préparation, lancement, développement, maintenance, renouvellement, refondation, prise de recul stratégique. Pour maîtriser les risques et réunir les conditions de réussite des projets, DECADE s’appuie sur son tissu d’expériences et de compétences, portées par ses équipes et par tout un réseau de solutions et partenaires spécialisés (Mirakl, Hybris, Magento, Target2Sell, Sitecore, Microsoft, Sparkow, etc.).",
+              sujet : "",
+              Images : ["https://i.postimg.cc/cLRBKMNX/decade-logo.jpg"], 
+              linkDin : "https://www.linkedin.com/company/decade/about/" ,
+              pfeBook2023:"" , 
+              pfeBook2024:"https://www.linkedin.com/posts/decade_decade-recrute-des-stagiaires-pfe-activity-7252286192841330689-0FNm?utm_source=share&utm_medium=member_desktop",
+              web:"https://www.decade.fr/notre-entreprise/sites/decade-tunis/",
+              long:"36.82068747042704",
+              lat:"10.191758924299595",
+           },
 
          {   name: "Efrekiadev", 
             email : "contact@efrekiadev.com",  
