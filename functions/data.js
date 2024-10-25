@@ -14,7 +14,7 @@ exports.handler = async (event, context) => {
               Images : ["https://i.postimg.cc/cLRBKMNX/decade-logo.jpg"], 
               linkDin : "https://www.linkedin.com/company/decade/about/" ,
               pfeBook2023:"" , 
-              pfeBook2024:"https://www.linkedin.com/posts/decade_decade-recrute-des-stagiaires-pfe-activity-7252286192841330689-0FNm?utm_source=share&utm_medium=member_desktop",
+              pfeBook2024:"https://taleez.com/apply/stagiaire-en-projet-de-fin-d-etudes-2025-tunisie-decade",
               web:"https://www.decade.fr/notre-entreprise/sites/decade-tunis/",
               long:"36.82068747042704",
               lat:"10.191758924299595",
