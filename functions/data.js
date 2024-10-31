@@ -6,6 +6,21 @@ exports.handler = async (event, context) => {
       body: JSON.stringify({
         items: [
          {
+            name: "WeFactory", 
+            email : "support@wefactorytech.tech",
+            location : "7 Av farhat hached, ezzahra, ben arous 2034, TN",
+            shortdescription : "WeFactory est une usine digitale spécialisée dans le développement interne d'applications web adaptées à l'intégration mobile. Nous concevons des solutions logicielles innovantes et évolutives qui connectent de manière transparente les plateformes web aux smartphones, en les proposant sous forme de produits SaaS.",
+            description: "WeFactory est une usine digitale spécialisée dans le développement interne d'applications web adaptées à l'intégration mobile. Nous concevons des solutions logicielles innovantes et évolutives qui connectent de manière transparente les plateformes web aux smartphones, en les proposant sous forme de produits SaaS. Notre priorité est d'améliorer l'accessibilité et l'expérience utilisateur grâce à des applications web performantes et optimisées pour le mobile.",
+            sujet : "",
+            Images : ["https://i.postimg.cc/v8nFrD4T/1729320100780.jpg"], 
+            linkDin : "https://www.linkedin.com/company/wefactorytech/posts/?feedView=all" ,
+            pfeBook2023:"" , 
+            pfeBook2024:"https://www.linkedin.com/posts/wefactorytech_wefactory-pfe-book-activity-7257327406217105408-C8KM?utm_source=share&utm_medium=member_desktop",
+            web:"https://wefactory.tech/",
+            long:"36.746596",
+            lat:"10.305329",
+         },
+         {
             name: "Olindas", 
             email : "career@olindias.com",
             location : "Place du Savoir, Monastir, 5000, TN",
