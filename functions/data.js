@@ -5,7 +5,36 @@ exports.handler = async (event, context) => {
       statusCode: 200,
       body: JSON.stringify({
         items: [
-
+         {
+            name: "Olindas", 
+            email : "career@olindias.com",
+            location : "Place du Savoir, Monastir, 5000, TN",
+            shortdescription : "Notre IA de matchmaking naturel est conçue pour comprendre les intentions et les perspectives des utilisateurs. Elle saisit ce qu’ils veulent dire lorsqu'ils recherchent quelque chose et anticipe ce qu'ils cherchent, afin de leur recommander la solution la plus adaptée.",
+            description: "Notre IA de matchmaking naturel est conçue pour comprendre les intentions et les perspectives des utilisateurs. Elle saisit ce qu’ils veulent dire lorsqu'ils recherchent quelque chose et anticipe ce qu'ils cherchent, afin de leur recommander la solution la plus adaptée. Découvrez comment intégrer notre modèle d'IA de matchmaking naturel dans votre entreprise. Que vous lanciez un nouveau produit ou ayez des idées innovantes prêtes à briller, nos experts sont là pour vous accompagner. Réservez une réunion Zoom dès maintenant et explorez comment notre IA de matchmaking naturel peut transformer le monde.",
+            sujet : "",
+            Images : ["https://i.postimg.cc/zGLkhYcw/olindias.png"], 
+            linkDin : "https://www.linkedin.com/company/olindias/?originalSubdomain=tn" ,
+            pfeBook2023:"" , 
+            pfeBook2024:"https://www.linkedin.com/posts/olindias_end-of-study-internship-opportunity-activity-7251955753182224384-VTUB?utm_source=share&utm_medium=member_desktop",
+            web:"https://www.olindias.com/",
+            long:"35.76689902965428",
+            lat:"10.831989933911313",
+         },
+         {
+            name: "Keyrus", 
+            email : "recrutement@ats-digital.com",
+            location : "Immeuble Zahra, Bloc A , Passage du lac Turkana 1053 • Les Berges du Lac",
+            shortdescription : "Chez Keyrus MEA, nous bâtissons une culture où des personnes talentueuses (comme vous) peuvent donner le meilleur d'elles-mêmes. Si vous êtes prêt(e) à développer votre carrière et à tirer le meilleur parti de l'industrie des données et du digital, vous êtes au bon endroit.",
+            description: "Rejoindre Keyrus MEA, c'est avoir l'opportunité de révéler vos talents et de déployer tout votre potentiel en participant à des projets stratégiques, opérationnels et technologiques pour les plus grandes entreprises françaises et internationales. C’est aussi être au cœur de l’innovation en bénéficiant de l’expertise d’un acteur international dans l'Intelligence des données, le Digital, le Conseil en management et la Transformation des entreprises Vous aurez la chance d'évoluer dans un environnement multiculturel, stimulant et formateur, où nous accordons une attention particulière à votre développement personnel et professionnel.é",
+            sujet : "",
+            Images : ["https://i.ibb.co/0yMsBxT/ats-digital-dev-logo.jpg"], 
+            linkDin : "https://www.linkedin.com/company/ats---digital-dev/about/" ,
+            pfeBook2023:"https://www.linkedin.com/feed/update/urn:li:activity:7123625294078304256/" , 
+            pfeBook2024:"https://www.linkedin.com/feed/update/urn:li:activity:7246564406350761985/",
+            web:"https://jobs.keyrus.tn/",
+            long:"36.833308520806895",
+            lat:"10.236281305672685",
+         },
          {
             name: "ATS - Digital Dev", 
             email : "recrutement@ats-digital.com",
