@@ -6,6 +6,21 @@ exports.handler = async (event, context) => {
       body: JSON.stringify({
         items: [
          {
+            name: "YEAH", 
+            email : "YECIN@INKLINK.FR",
+            location : "rue Omar Kaddeh, Tunis, Tunis 1073, TN",
+            shortdescription : "Yeah est une entreprise en pleine expansion, dédiée à vous aider à maîtriser vos coûts de production grâce à l'externalisation stratégique des tâches administratives et de création de contenu.",
+            description: "Nous sommes les pionniers du marketing d'influence en 3D sur la plateforme révolutionnaire VU (Virtuelle You). Imaginez des personnages 3D d'un réalisme captivant, promouvant vos produits ou services au sein d'une bibliothèque médiatique numérique innovante. C'est la tendance marketing ultime pour propulser votre entreprise vers des sommets inédits.",
+            sujet : "",
+            Images : ["https://i.postimg.cc/V6tNNMbP/yeah-production-logo.jpg"], 
+            linkDin : "https://www.linkedin.com/company/yeahunivers/" ,
+            pfeBook2023:"" , 
+            pfeBook2024:"https://www.linkedin.com/posts/yeahunivers_envie-de-booster-votre-carri%C3%A8re-activity-7257092259022598144-LN3P?utm_source=share&utm_medium=member_desktop",
+            web:"https://www.linkedin.com/company/yeahunivers/posts/?feedView=all",
+            long:"36.823082870903285",
+            lat:"10.193192734890864",
+         },
+         {
             name: "NEXT GENERATION IT", 
             email : "contact@ngit.tn",
             location : "Immeuble Montplaisir Center, Rue Ibn Nadim، Tunis 1073, Tunis, 1082, TN",
