@@ -6,6 +6,21 @@ exports.handler = async (event, context) => {
       body: JSON.stringify({
         items: [
          {
+            name: "NEXT GENERATION IT", 
+            email : "contact@ngit.tn",
+            location : "Immeuble Montplaisir Center, Rue Ibn Nadim، Tunis 1073, Tunis, 1082, TN",
+            shortdescription : "Next Generation IT est une entreprise spécialisée dans la création et la mise à jour de sites web, ainsi que dans le développement d'applications web et mobiles. Forte de compétences en développement et en art graphique, notre mission est de vous offrir des solutions digitales personnalisées et adaptées à vos besoins.",
+            description: "Depuis notre création, nous nous engageons à fournir des services de qualité qui allient innovation et expertise technique. Que vous souhaitiez développer un nouveau site web, une application mobile, ou mettre à jour une plateforme existante, notre équipe d'experts est là pour vous accompagner à chaque étape de votre projet.",
+            sujet : "",
+            Images : ["https://i.postimg.cc/NMwHDypk/images-6.jpg"], 
+            linkDin : "https://www.linkedin.com/company/nextgenerationit/posts/?feedView=all" ,
+            pfeBook2023:"" , 
+            pfeBook2024:"https://www.linkedin.com/posts/nextgenerationit_catalogue-des-projets-de-fin-d%C3%A9tudes-activity-7257303383584243712-NYRl?utm_source=share&utm_medium=member_desktop",
+            web:"https://www.ngit.tn/",
+            long:"36.818608387135285",
+            lat:"10.18501288389218",
+         },
+         {
             name: "WeFactory", 
             email : "support@wefactorytech.tech",
             location : "7 Av farhat hached, ezzahra, ben arous 2034, TN",
