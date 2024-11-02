@@ -6,6 +6,24 @@ exports.handler = async (event, context) => {
       body: JSON.stringify({
         items: [
          {
+            name: "Tunisie Telecom", 
+            email : "contact@tunisietelecom.tn",
+            location : "Les jardins du Lac II, Tunis, 1073, TN",
+            description: "Depuis sa création, Tunisie Telecom a toujours assuré son rôle en tant qu’entreprise citoyenne pour contribuer au développement durable du pays. Tunisie Telecom n’a cessé d’être proche de ses clients en assurant un support soutenu à la culture, au sport, et aux activités liées à l’environnement, l'éducation, l'entrepreneuriat, etc. Tunisie Telecom a pour vision de simplifier le quotidien de tous les tunisiens en accélérant l’adoption du Très Haut Débit et la transformation digitale de la société tunisienne. ",
+            shortdescription : " Tunisie Telecom est parmi les pionniers des grands opérateurs Telecom de la région. C’est l’opérateur historique en Tunisie (plus de 150 ans). Tunisie Telecom offre des services de communication (téléphonie fixe, mobile et Internet) au grand public, entreprises, FSI et opérateurs tiers…",
+
+            sujet : "",
+            Images : ["https://i.postimg.cc/nLLZmTVc/tt-2-jpg.webp"], 
+            linkDin : "https://www.linkedin.com/company/tunisie-t-l-com/" ,
+            pfeBook2023:"https://drive.google.com/file/d/1sFtAsl8PqUvDlDHaC-5oo9RtIN2EmIi2/view" , 
+            pfeBook2024:"https://www.linkedin.com/posts/tunisie-t-l-com_pfe-book-2024-2025-activity-7258419340645941248-ECmj?utm_source=share&utm_medium=member_desktop",
+            web:"https://www.tunisietelecom.tn/particulier/",
+            long:"36.772441665541116",
+            lat:"10.273378702348445",
+         },
+
+
+         {
             name: "YEAH", 
             email : "YECIN@INKLINK.FR",
             location : "rue Omar Kaddeh, Tunis, Tunis 1073, TN",
@@ -598,24 +616,7 @@ exports.handler = async (event, context) => {
             lat:"10.972818262610376",
          },
 
-         {
-            name: "Tunisie Telecom", 
-            email : "contact@tunisietelecom.tn",
-            location : "Les jardins du Lac II, Tunis, 1073, TN",
-            description: "Depuis sa création, Tunisie Telecom a toujours assuré son rôle en tant qu’entreprise citoyenne pour contribuer au développement durable du pays. Tunisie Telecom n’a cessé d’être proche de ses clients en assurant un support soutenu à la culture, au sport, et aux activités liées à l’environnement, l'éducation, l'entrepreneuriat, etc. Tunisie Telecom a pour vision de simplifier le quotidien de tous les tunisiens en accélérant l’adoption du Très Haut Débit et la transformation digitale de la société tunisienne. ",
-            shortdescription : " Tunisie Telecom est parmi les pionniers des grands opérateurs Telecom de la région. C’est l’opérateur historique en Tunisie (plus de 150 ans). Tunisie Telecom offre des services de communication (téléphonie fixe, mobile et Internet) au grand public, entreprises, FSI et opérateurs tiers…",
-
-            sujet : "",
-            Images : ["https://i.postimg.cc/nLLZmTVc/tt-2-jpg.webp"], 
-            linkDin : "https://www.linkedin.com/company/tunisie-t-l-com/" ,
-            pfeBook2023:"https://drive.google.com/file/d/1sFtAsl8PqUvDlDHaC-5oo9RtIN2EmIi2/view" , 
-            pfeBook2024:"",
-            web:"https://www.tunisietelecom.tn/particulier/",
-            long:"36.772441665541116",
-            lat:"10.273378702348445",
-         },
-
-
+        
 
          {
             name: "Tnker", 
