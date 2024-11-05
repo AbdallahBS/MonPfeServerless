@@ -6,6 +6,22 @@ exports.handler = async (event, context) => {
       body: JSON.stringify({
         items: [
          {
+            name: "Hydatis", 
+            email : "stages@hydatis.com",
+            location : "1er Etage, Immeuble Golden Tower, Bloc A Tunis 1082",
+            description: "Nous sommes Hydatis. Nous exploitons les données et le digital pour créer les prochaines startups révolutionnaires. Hydatis est un studio de startups technologiques de premier plan, avec une solide expérience dans l’accompagnement des entreprises pour tirer parti des dernières technologies d’intelligence des données et des solutions numériques afin de relever des défis concrets. Notre équipe, composée d'entrepreneurs et de technologues expérimentés, s'engage à construire des entreprises évolutives et durables, en mettant l'accent sur la créativité, la stratégie et la technologie.",
+            shortdescription : "Nous sommes Hydatis. Nous exploitons les données et le digital pour créer les prochaines startups révolutionnaires. Hydatis est un studio de startups technologiques de premier plan, avec une solide expérience dans l’accompagnement des entreprises pour tirer parti des dernières technologies d’intelligence des données et des solutions numériques afin de relever des défis concrets. Notre équipe, composée d'entrepreneurs et de technologues expérimentés, s'engage à construire des entreprises évolutives et durables, en mettant l'accent sur la créativité, la stratégie et la technologie.",
+
+            sujet : "",
+            Images : ["https://i.postimg.cc/QCP09KZT/twitter.png"], 
+            linkDin : "https://www.linkedin.com/company/hydatis/posts/?feedView=all" ,
+            pfeBook2023:"" , 
+            pfeBook2024:"https://www.hydatis.com/wp-content/uploads/2024/11/Hydatis-PFE-Book-2025-1.pdf",
+            web:"https://www.hydatis.com/",
+            long:"36.8490663378562",
+            lat:"10.199860553616253",
+         },
+         {
             name: "Tunisie Telecom", 
             email : "contact@tunisietelecom.tn",
             location : "Les jardins du Lac II, Tunis, 1073, TN",
