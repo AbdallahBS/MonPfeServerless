@@ -5,6 +5,21 @@ exports.handler = async (event, context) => {
       statusCode: 200,
       body: JSON.stringify({
         items: [
+         {
+            name: "Inetum", 
+            email : "contact@inetum.com",
+            location : "Immeuble Harbour, avenue de la bourse Les Berges du Lac 2, 1053 Tunisie",
+            shortdescription : "Nous sommes convaincus qu’une stratégie ambitieuse doit parler à la fois au cœur et à l’esprit.",
+            description: "L’expression forte de l’impact que nous voulons créer pour nos clients et dans le monde. Elle illustre notre mission et nous sert de fil conducteur. Il ne s’agit pas simplement d’une jolie phrase mais d’un véritable outil de prise de décision. Notre raison d’être a été soigneusement réfléchie et chaque mot porte une signification stratégique.",
+            sujet : "",
+            Images : ["https://i.postimg.cc/kXV8g1jD/images-9.jpg"], 
+            linkDin : "https://www.linkedin.com/company/inetum/posts/?feedView=all" ,
+            pfeBook2023:"" , 
+            pfeBook2024:"https://www.inetum.com/upload/public/media/document/2024-11/inetum-tunisia-pfebook-2025.pdf",
+            web:"https://www.inetum.com/fr",
+            long:"36.848525843945",
+            lat:"10.271735032136322",
+         },
          {   name: "Pearls Consulting", 
             email : "hr@pearls.consulting",  
             location : "5ème étage, bureau N°3, Immeuble Mejda, 1053 Rue de la feuille d'Erable, Tunis 1053",
