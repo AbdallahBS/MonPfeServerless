@@ -6,6 +6,21 @@ exports.handler = async (event, context) => {
       body: JSON.stringify({
         items: [
          {
+            name: "Leoni", 
+            email : "Stage.Leoni.Tunisie@leoni.com",
+            location : "ZI Messaadine Route de M'Saken Sousse,",
+            shortdescription : "LEONI est un fournisseur mondial de produits, solutions et services pour la gestion de l’énergie et des données dans l’industrie automobile et d’autres secteurs industriels. Le groupe emploie plus de 95.000 personnes dans 32 pays et présent dans plus de 100 sites dans le monde.",
+            description: "LEONI est un fournisseur mondial de produits, solutions et services pour la gestion de l’énergie et des données dans l’industrie automobile et d’autres secteurs industriels. Le groupe emploie plus de 95.000 personnes dans 32 pays et présent dans plus de 100 sites dans le monde.",
+            sujet : "",
+            Images : ["https://i.postimg.cc/pTmgpM3p/Image1-1-1130x804.png"], 
+            linkDin : "https://www.linkedin.com/company/leoni-tunisia/posts/?feedView=all" ,
+            pfeBook2023:"" , 
+            pfeBook2024:"https://www.linkedin.com/posts/farah-jemili_leoni-pfe-book-2024-2025-ugcPost-7259856697693773824-OjMl?utm_source=share&utm_medium=member_desktop",
+            web:"https://www.leoni.com/",
+            long:"35.771975623425575",
+            lat:"10.604636728502564",
+         },
+         {
             name: "Inetum", 
             email : "contact@inetum.com",
             location : "Immeuble Harbour, avenue de la bourse Les Berges du Lac 2, 1053 Tunisie",
