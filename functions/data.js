@@ -6,6 +6,36 @@ exports.handler = async (event, context) => {
       body: JSON.stringify({
         items: [
          {
+            name: "VIBLIDEA", 
+            email : "internship@viblidea.com ",
+            location : "Tunis, Tunisia.",
+            shortdescription : "At VIBLIDEA, we specialize in delivering innovative IT solutions that drive growth, efficiency, and success. Our expertise spans across software development, digital transformation, and cutting-edge technology integration. ",
+            description: "With a team of experienced professionals, we combine bold leadership and intelligent problem-solving to build dynamic, scalable, and high-performing digital ecosystems. From concept to execution, VIBLIDEA empowers organizations to achieve their full potential, ensuring long-term value and competitive advantage in today’s fast-paced digital landscape.",
+            sujet : "",
+            Images : ["https://i.postimg.cc/Z50LsbsY/viblidea-logo.jpg"], 
+            linkDin : "https://www.linkedin.com/company/viblidea/about/" ,
+            pfeBook2023:"" , 
+            pfeBook2024:"https://www.linkedin.com/posts/viblidea_viblidea-pfe-book-20242025-activity-7260686298909179906-ba1q?utm_source=share&utm_medium=member_desktop",
+            web:"https://www.viblidea.com/",
+            long:"36.79827878794283",
+            lat:"10.184279531884988",
+         }, 
+         {
+            name: "AMECAP", 
+            email : "contact@amecap.com",
+            location : "Route de gabes, km 1 5",
+            shortdescription : "Imaginez travailler avec une entreprise forte de plus de 30 ans d'expérience dans le domaine du décolletage et de l'usinage de précision. Vous seriez entouré d'une équipe hautement compétente et passionnée, constamment animée par une créativité débordante...",
+            description: "Imaginez travailler avec une entreprise forte de plus de 30 ans d'expérience dans le domaine du décolletage et de l'usinage de précision. Vous seriez entouré d'une équipe hautement compétente et passionnée, constamment animée par une créativité débordante et une quête incessante d'innovation. Ensemble, nous pourrions repousser les limites, briser les conventions et créer des solutions qui changeront la donne dans votre secteur. 🚀",
+            sujet : "",
+            Images : ["https://i.ibb.co/JkQryLK/images.jpg"], 
+            linkDin : "https://www.linkedin.com/company/amecap-tunisia/posts/?feedView=all" ,
+            pfeBook2023:"https://www.linkedin.com/posts/amecap-tunisia_pfe-book-2024-amecap-activity-7133899237062254592-ZbGV/?utm_source=share&utm_medium=member_desktop" , 
+            pfeBook2024:"https://www.linkedin.com/posts/amecap-tunisia_pfe-book-amecap-2025-activity-7260325159000068097-ScYc?utm_source=share&utm_medium=member_desktop",
+            web:"http://www.amecap.tn",
+            long:"34.724665823551646",
+            lat:"10.74054226657982",
+         },  
+         {
             name: "Leoni", 
             email : "Stage.Leoni.Tunisie@leoni.com",
             location : "ZI Messaadine Route de M'Saken Sousse,",
@@ -414,21 +444,7 @@ exports.handler = async (event, context) => {
          },  
          
          
-         {
-            name: "AMECAP", 
-            email : "contact@amecap.com",
-            location : "Route de gabes, km 1 5",
-            shortdescription : "Imaginez travailler avec une entreprise forte de plus de 30 ans d'expérience dans le domaine du décolletage et de l'usinage de précision. Vous seriez entouré d'une équipe hautement compétente et passionnée, constamment animée par une créativité débordante...",
-            description: "Imaginez travailler avec une entreprise forte de plus de 30 ans d'expérience dans le domaine du décolletage et de l'usinage de précision. Vous seriez entouré d'une équipe hautement compétente et passionnée, constamment animée par une créativité débordante et une quête incessante d'innovation. Ensemble, nous pourrions repousser les limites, briser les conventions et créer des solutions qui changeront la donne dans votre secteur. 🚀",
-            sujet : "",
-            Images : ["https://i.ibb.co/JkQryLK/images.jpg"], 
-            linkDin : "https://www.linkedin.com/company/amecap-tunisia/posts/?feedView=all" ,
-            pfeBook2023:"https://www.linkedin.com/posts/amecap-tunisia_pfe-book-2024-amecap-activity-7133899237062254592-ZbGV/?utm_source=share&utm_medium=member_desktop" , 
-            pfeBook2024:"",
-            web:"http://www.amecap.tn",
-            long:"34.724665823551646",
-            lat:"10.74054226657982",
-         },  
+       
          {
             name: "Appaxis Innovations", 
             email : "contact@appaxisinnovations.tn",
