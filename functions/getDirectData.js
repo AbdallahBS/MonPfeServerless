@@ -3,8 +3,9 @@ exports.handler = async () => {
       // Define the data directly inside the function
       const data = [
         {
-          name: "Luxury Beach Resort",
-          img: "https://example.com/images/beach-resort.jpg",
+          name: "EL Houaria Beach Resort",
+          
+          img: "https://i.postimg.cc/gcxvNtkn/anastasia-palagutina-Vfd1-Ztak8a-Q-unsplash-1.jpg",
           price: 300,
           people: 2,
           stars: 5,
@@ -13,7 +14,7 @@ exports.handler = async () => {
         },
         {
           name: "Mountain Hideaway",
-          img: "https://example.com/images/mountain-hideaway.jpg",
+          img: "https://i.postimg.cc/dVk99jzB/krzysztof-kowalik-8mhd-Du-OS8-YI-unsplash.jpg",
           price: 250,
           people: 4,
           stars: 4,
@@ -22,7 +23,7 @@ exports.handler = async () => {
         },
         {
           name: "City Apartment",
-          img: "https://example.com/images/city-apartment.jpg",
+          img: "https://i.postimg.cc/Wb48dv8x/du-zaniol-Sjf-Gf-O-3i-Rk-unsplash.jpg",
           price: 150,
           people: 3,
           stars: 3,
