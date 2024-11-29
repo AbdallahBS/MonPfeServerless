@@ -3,32 +3,32 @@ exports.handler = async () => {
       // Define the data directly inside the function
       const data = [
         {
-          name: "EL Houaria Beach Resort",
+          name: "EL Houaria Beach",
           
-          img: "https://i.postimg.cc/gcxvNtkn/anastasia-palagutina-Vfd1-Ztak8a-Q-unsplash-1.jpg",
+          img: "https://i.ibb.co/QcrQswt/anastasia-palagutina-Vfd1-Ztak8a-Q-unsplash-1.jpg",
           price: 300,
           people: 2,
           stars: 5,
-          description: "Experience the ultimate luxury by the sea.",
-          location: "Maldives"
+          description: "A serene escape surrounded by emerald waters and mountains.",
+          location: "Houaria"
         },
         {
           name: "Mountain Hideaway",
-          img: "https://i.postimg.cc/dVk99jzB/krzysztof-kowalik-8mhd-Du-OS8-YI-unsplash.jpg",
+          img: "https://i.ibb.co/426TH35/du-zaniol-Sjf-Gf-O-3i-Rk-unsplash.jpg",
           price: 250,
           people: 4,
           stars: 4,
-          description: "A tranquil retreat in the heart of the mountains.",
+          description: "Explore the vast and mystical dunes under a starlit sky.",
           location: "Switzerland"
         },
         {
-          name: "City Apartment",
-          img: "https://i.postimg.cc/Wb48dv8x/du-zaniol-Sjf-Gf-O-3i-Rk-unsplash.jpg",
+          name: "Rainforest Retreat",
+          img: "https://i.ibb.co/cNZtjh2/krzysztof-kowalik-8mhd-Du-OS8-YI-unsplash.jpg",
           price: 150,
           people: 3,
           stars: 3,
-          description: "Modern apartment in the heart of the city.",
-          location: "New York"
+          description: "Breathtaking views of snow-capped peaks and lush valleys",
+          location: ""
         }
       ];
   
